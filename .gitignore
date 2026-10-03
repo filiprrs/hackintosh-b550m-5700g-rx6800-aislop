@@ -1,0 +1,10 @@
+.DS_Store
+._*
+config.plist.backup
+config.plist.before-*.bak
+*.bak
+*.backup
+*.log
+.env
+.env.*
+config.local.plist
