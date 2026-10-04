@@ -17,3 +17,7 @@ intentionally empty. Generate and insert your own SMBIOS values before use.
 This sanitized configuration is not ready to boot as-is.
 
 The original active EFI was not modified.
+
+The optional VIA PCIe USB card personality (X162) is commented out in
+`EFI/OC/Kexts/USBMap.kext/Contents/Info.plist` by default. Remove the surrounding
+XML comment only if you have that card and need its optional/unreliable map.

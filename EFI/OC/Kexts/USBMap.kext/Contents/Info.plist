@@ -532,6 +532,7 @@
 				</dict>
 			</dict>
 		</dict>
+		<!-- Optional VIA PCIe USB card map, disabled by default.
 		<key>MacPro7,1-X162-VIA-OPTIONAL-UNRELIABLE</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
@@ -649,6 +650,7 @@
 				</dict>
 			</dict>
 		</dict>
+		-->
 	</dict>
 </dict>
 </plist>

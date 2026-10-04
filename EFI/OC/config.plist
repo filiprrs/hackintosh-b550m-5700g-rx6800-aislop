@@ -351,7 +351,7 @@
 				<key>BundlePath</key>
 				<string>USBMap.kext</string>
 				<key>Comment</key>
-				<string>B550M-PLUS confirmed USB map; X162 VIA optional/unreliable personality</string>
+				<string>B550M-PLUS confirmed USB map; optional VIA PCIe USB card map commented out</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
